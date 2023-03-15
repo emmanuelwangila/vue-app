@@ -1,7 +1,7 @@
 # Vuejs ToDo App
 A to-do list is a simple but effective way to manage tasks.
 
-Live Demo: https://d2phap.github.io/vuejs-todo
+
 
 ## User Stories
 - As a user, I need to be able to add an activity (item to the list).
@@ -53,5 +53,4 @@ npm run test:unit
 #### Postman API collection
 [/server/Vuejs ToDo App.postman_collection.json](https://github.com/d2phap/vuejs-todo/blob/master/server/Vuejs%20ToDo%20App.postman_collection.json)
 
-#### Mock API
-http://private-0e4345-d2phap.apiary-mock.com/
+
